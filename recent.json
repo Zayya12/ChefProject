@@ -1,7 +1,29 @@
-[{  "name": "Cook 1",
-            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
-            "Rating": "8.16",
-            "episode": 500,
-            "categorie":"Animation | Drama | Adventure",
-            "studio":"Studio Pierrot",
-            "img": "http://img.youtube.com/vi/SCjhE8zs8lw/maxresdefault.jpg"}]
+{
+"list":[
+{
+"id":1,
+"name":"ခ်ိဳခ်ိဳခ်ဥ္ခ်ဥ္နဲ႕ ထမင္းၿမိန္ေစမယ့္ ဝက္သားလံုးခ်ိဳခ်ဥ္",
+"img":"http://img.youtube.com/vi/SCjhE8zs8lw/maxresdefault.jpg"
+},
+{
+"id":2,
+"name":"Item-2",
+"img":"https://i2.wp.com/www.techsolpoint.com/wp-content/uploads/2018/04/bg.jpg"
+},
+{
+"id":3,
+"name":"Item-3",
+"img":"https://i0.wp.com/www.techsolpoint.com/wp-content/uploads/2018/03/google_seo.jpeg"
+},
+{
+"id":4,
+"name":"Item-4",
+"img":"https://i2.wp.com/www.techsolpoint.com/wp-content/uploads/2018/03/seo.jpeg"
+},
+{
+"id":5,
+"name":"Item-5",
+"img":"https://4.bp.blogspot.com/-           nrp2ovenoYs/WPXtdu7YjZI/AAAAAAAAAcw/0ZO1oWD3Dz4TNpeJWGkQVF3gI4tmWJ-       NQCLcB/s1600/913518289_5021def7bc_b.jpg"
+}
+]
+}
